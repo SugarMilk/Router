@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        123
+        我是首页
       </div>
     );
   }
