@@ -9,6 +9,7 @@ import Search from './components/search'
 import Document from './components/document'
 
 ReactDOM.render(
+  // 路由配置
   <BrowserRouter>
     <div>
       <ul>
